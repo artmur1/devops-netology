@@ -1,6 +1,8 @@
 # devops-netology
 Домашнее задание к занятию «Системы контроля версий»
 
+Новая строка
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
