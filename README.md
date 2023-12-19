@@ -3,6 +3,9 @@
 
 Новая строка
 
+Pycharm - 4 задание
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
