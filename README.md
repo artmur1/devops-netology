@@ -1,6 +1,8 @@
 # devops-netology
 Домашнее задание к занятию «Системы контроля версий»
 
+main - PyCharm - zad4
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
